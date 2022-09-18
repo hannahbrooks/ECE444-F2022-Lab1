@@ -1,1 +1,1 @@
-print("it is raining outside :(")
+print("it is raining outside :( but maybe i can go on a walk anyway")
