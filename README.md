@@ -25,3 +25,10 @@ My partner's change on my own repo:
 # Activity 6
 
 https://github.com/hannahbrooks/ECE444-F2022-EP
+
+# Activity 7
+
+<img width="1334" alt="Screenshot of the title change to my name" src="https://user-images.githubusercontent.com/48219309/190925942-244fe00a-bbb5-4a4e-8410-fbcbb5125b8c.png">
+<img width="1678" alt="Screenshot of the website with the changed title" src="https://user-images.githubusercontent.com/48219309/190925979-18331d40-9417-4dec-bef8-5587e68cf58b.png">
+
+
