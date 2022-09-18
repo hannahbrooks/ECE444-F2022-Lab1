@@ -22,3 +22,6 @@ My partner's change on my own repo:
 # Activity 5
 <img width="1007" alt="Screenshot of my rebase" src="https://user-images.githubusercontent.com/48219309/190924745-46f464ff-70e7-4fa5-ac18-eb64974d03da.png">
 
+# Activity 6
+
+https://github.com/hannahbrooks/ECE444-F2022-EP
